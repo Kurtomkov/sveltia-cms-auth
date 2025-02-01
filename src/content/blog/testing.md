@@ -1,6 +1,6 @@
 ---
 title: TESTING
-url: blog
+url: /blog
 description: THE DAWGS BACK
 author: OH BABY
 date: 2025-02-01T00:15:00
